@@ -1,1 +1,8 @@
 /* Start coding here */
+
+*{
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-weight: 5;
+    font-style: normal;
+  }
