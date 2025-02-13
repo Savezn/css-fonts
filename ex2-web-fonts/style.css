@@ -1,1 +1,10 @@
 /* Start coding here */
+@font-face {
+    font-family:'Font' ;
+    src: url('./fonts/2005_iannnnnCPU.ttf');
+}
+
+body{
+    font-family:'Font' ;
+    font: size 1rem; ;
+}
